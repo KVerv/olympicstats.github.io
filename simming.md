@@ -1,3 +1,3 @@
 layout: page
-title: "400m Freestyle Men"
+title: "Swimming Events"
 permalink: /swimming/
