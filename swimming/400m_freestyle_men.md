@@ -1,1 +1,21 @@
+# 400m Freestyle Men
+
 In this article we will analyse the men's 400m freestyle event at the olympics. For this we will use the data from the finals of all previous summer olympics from Athens 2004 up to Tokio 2020. 
+
+ ```{figure} ../_assets/swimming/freestyle-400m-men-distributionpdf.svg
+:scale: 12%
+:name: 400m_freestyle_men_pdf
+:align: center
+```
+
+ ```{figure} ../_assets/swimming/freestyle-400m-men-distributioncdf.svg
+:scale: 12%
+:name: 400m_freestyle_men_cdf
+:align: center
+```
+
+ ```{figure} ../_assets/swimming/freestyle-400m-men-medal.svg
+:scale: 12%
+:name: 400m_freestyle_men_medal
+:align: center
+```
