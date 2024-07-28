@@ -8,11 +8,14 @@ In this article we will analyse the men's 400m freestyle event at the olympics. 
 :align: center
 ```
 
+cdf of the data
+
  ```{figure} ../_assets/swimming/freestyle-400m-men-distributioncdf.svg
 :scale: 12%
 :name: 400m_freestyle_men_cdf
 :align: center
 ```
+medal probabilities
 
  ```{figure} ../_assets/swimming/freestyle-400m-men-medal.svg
 :scale: 12%
