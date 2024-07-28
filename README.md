@@ -1,2 +1,2 @@
 # olympicstats.github.io
-[Swimming](/swimming.md)
+[Swimming](/swimming/swimming.md)
