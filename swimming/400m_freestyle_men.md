@@ -2,7 +2,7 @@
 
 In this article we will analyse the men's 400m freestyle event at the olympics. For this we will use the data from the finals of all previous summer olympics from Athens 2004 up to Tokio 2020. 
 
-![freestyle-400m-men-distributionpdf](/images/freestyle-400m-men-distributionpdf.svg)
+<p><img alt="freestyle-400m-men-pdf" src="/images/freestyle-400m-men-distributioncdf.svg" style="float:right; width:300px" /></p>
 
 
 cdf of the data
