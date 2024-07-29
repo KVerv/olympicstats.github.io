@@ -27,19 +27,19 @@ The probability that a given time wins at least a gold, silver or bronze medal c
 ## Records
 The current records are
 
-     | Time (s) |
+| Record | Time (s) |
 |----|-------|
 | OR | 220.14|
 | WR | 220.07|
 
 We can also look at the probability distributions of the time of the new record. This also allows for the calculation of the expected value of the new records and the probability that we'll see a new record.
 
-     | Probability | Expected Value (s)|
+| Record | Probability | Expected Value (s)|
 | -- | ------ | --- |
 | OR | 16.15% | 219.26 |
 | WR | 15.08% | 219.20 |
 
-<p><img alt="freestyle-400m-men-record" src="../images/freestyle/freestyle-400m-men-record.svg" style="float:center; width:300px" /></p>
+<p><img alt="freestyle-400m-men-record" src="../images/freestyle/freestyle-400m-men-records.svg" style="float:center; width:300px" /></p>
 
 
 ## Paris 2024
