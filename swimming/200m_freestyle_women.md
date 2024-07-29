@@ -6,7 +6,7 @@ In this article we will analyse the women's 200m freestyle event at the olympics
 
 <p><img alt="freestyle-200m-women-pdf" src="../images/freestyle/freestyle-200m-women-distributionpdf.svg" style="float:center; width:600px" /></p>
 
-The distribution of the data has some structure. It is trimodal and looks like the combination of three normal distributions. The middle distribution however looks to be skewed. Keep in mind that the data only comprises 40 entries. We will ignore this structure for now and assume that the data is normal distributed with the sample mean and sample standard deviation.
+The distribution of the data looks like a normal distribution. Keep in mind that the data only comprises 40 entries. We will assume that the data is normal distributed with the sample mean and sample standard deviation.
 
 We can also look at the cumulative distribution function of the data.
 <p><img alt="freestyle-200m-women-cdf" src="../images/freestyle/freestyle-200m-women-distributioncdf.svg" style="float:center; width:600px" /></p>
