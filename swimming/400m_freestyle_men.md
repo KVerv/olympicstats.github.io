@@ -7,15 +7,8 @@ In this article we will analyse the men's 400m freestyle event at the olympics. 
 
 cdf of the data
 
- ```{figure} /_assets/freestyle-400m-men-distributioncdf.svg
-:scale: 12%
-:name: 400m_freestyle_men_cdf
-:align: center
-```
+<p><img alt="freestyle-400m-men-cdf" src="../images/freestyle-400m-men-distributioncdf.svg" style="float:right; width:300px" /></p>
+
 medal probabilities
 
- ```{figure} ../_assets/freestyle-400m-men-medal.svg
-:scale: 12%
-:name: 400m_freestyle_men_medal
-:align: center
-```
+<p><img alt="freestyle-400m-men-medal" src="../images/freestyle-400m-men-medal.svg" style="float:right; width:300px" /></p>
