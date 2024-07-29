@@ -1,5 +1,6 @@
 # olympicstats.github.io
 
-* [Swimming](/swimming/swimming.md)
+* Swimming
+    - [400m Freestyle Men](/swimming/400m_freestyle_men.md)
 
 {:toc}

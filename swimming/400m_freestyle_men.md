@@ -2,7 +2,8 @@
 
 In this article we will analyse the men's 400m freestyle event at the olympics. For this we will use the data from the finals of all previous summer olympics from Athens 2004 up to Tokio 2020. 
 
-<p><img alt="Probability density function of the finishing times. The dashed line represents the estimated normal distribution." src="/_static/freestyle-400m-men-distributionpdf.svg" style="float:center; width:300px" /></p>
+![freestyle-400m-men-distributionpdf](/_static/freestyle-400m-men-distributionpdf.svg)
+
 
 cdf of the data
 
