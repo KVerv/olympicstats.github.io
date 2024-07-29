@@ -1,4 +1,4 @@
-# 400m Freestyle Men
+# 400m Freestyle Women
 
 In this article we will analyse the women's 400m freestyle event at the olympics. For this we will use the data from the finals of all previous summer olympics from Athens 2004 up to Tokio 2020. 
 
