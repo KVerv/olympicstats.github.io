@@ -7,4 +7,5 @@ This website contains a data analysis of some olympic events. The data is then u
     - [4x100m Freestyle Men](/swimming/4x100m_freestyle_men.md)
     - [4x200m Freestyle Men](/swimming/4x200m_freestyle_men.md)
     - [4x100m Freestyle Women](/swimming/4x100m_freestyle_men.md)
+    - [100m Backstroke Women](/swimming/100m_backstroke_women.md)
     - [200m Backstroke Women](/swimming/200m_backstroke_women.md)
