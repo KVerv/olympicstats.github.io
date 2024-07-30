@@ -6,7 +6,7 @@ In this article we will analyse the men's 4x200m freestyle event at the olympics
 
 <p><img alt="freestyle-4x200m-men-pdf" src="../images/freestyle/freestyle-4x200m-men-distributionpdf.svg" style="float:center; width:600px" /></p>
 
-The distribution of the data has some structure. It is bimodal and looks like the combination of two normal distributions. This structure might represent the two different types of athletes in the final. On one hand we have the athlete that are medal contenders and on the other hand we have the athletes that made it to the final but are not as fast as the medal contenders. Keep in mind that the data only comprises 40 entries. We will ignore this structure for now and assume that the data is normal distributed with the sample mean and sample standard deviation.
+The distribution of the data looks like a normal distribution, but it seems to be skewed. Keep in mind that the data only comprises 40 entries. We will assume that the data is normal distributed with the sample mean and sample standard deviation.
 
 We can also look at the cumulative distribution function of the data.
 <p><img alt="freestyle-4x200m-men-cdf" src="../images/freestyle/freestyle-4x200m-men-distributioncdf.svg" style="float:center; width:600px" /></p>
