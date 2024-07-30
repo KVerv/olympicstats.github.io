@@ -1,12 +1,12 @@
 # 100m Backstroke Women
 
-In this article we will analyse the women's 100m backstroke event at the olympics. For this we will use the data from the finals of all previous summer olympics from Athens 1004 up to Tokio 2020. 
+In this article we will analyse the women's 100m backstroke event at the olympics. For this we will use the data from the finals of all previous summer olympics from Athens 2004 up to Tokio 2020. 
 
 ## The distribution
 
 <p><img alt="backstroke-100m-women-pdf" src="../images/backstroke/backstroke-100m-women-distributionpdf.svg" style="float:center; width:600px" /></p>
 
-The distribution of the data looks like a normal distribution. Keep in mind that the data only comprises 40 entries. We will assume that the data is normal distributed with the sample mean and sample standard deviation.
+The distribution of the data looks like a normal distribution, but it also has more structure. There is a second bump in the tail, prossibly representing the non-medal candidates. Keep in mind that the data only comprises 40 entries. We will assume that the data is normal distributed with the sample mean and sample standard deviation.
 
 We can also look at the cumulative distribution function of the data.
 <p><img alt="backstroke-100m-women-cdf" src="../images/backstroke/backstroke-100m-women-distributioncdf.svg" style="float:center; width:600px" /></p>
