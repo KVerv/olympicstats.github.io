@@ -4,12 +4,12 @@ In this article we will analyse the women's discus throw event at the olympics. 
 
 ## The distribution
 
-<p><img alt="discus-women-pdf" src="../images/freestyle/discus-women-distributionpdf.svg" style="float:center; width:600px" /></p>
+<p><img alt="discus-women-pdf" src="../images/discus/discus-women-distributionpdf.svg" style="float:center; width:600px" /></p>
 
 The distribution of the data looks like a normal distributions. We will assume that the data is normal distributed with the sample mean and sample standard deviation. There are 96 fouls registered of the total of 281 throws. This results in a 34.16% probability of a foul.
 
 We can also look at the cumulative distribution function of the data.
-<p><img alt="discus-women-cdf" src="../images/freestyle/discus-women-distributioncdf.svg" style="float:center; width:600px" /></p>
+<p><img alt="discus-women-cdf" src="../images/discus/discus-women-distributioncdf.svg" style="float:center; width:600px" /></p>
 This plot also shows some deviations from the fitted distribution but it doesn't look that bad especially for the low distances. We can perform the Anderson-Darling test to check if the data is explained by the fitted distribution. The p-value of an one-sample Anderson-Darlign test is given by 0.70. We must retain the null-hypothesis that the throwing distances are normal distributed with mean 62.33m and standard deviation 2.51m.
 
 There are 
@@ -24,7 +24,7 @@ Given the distribution of the throwing distances of the athletes we can determin
 | 3nd | 66.13 |
 
 The probability that a given distance wins at least a gold, silver or bronze medal can also be calculated.
-<p><img alt="discus-women-medal" src="../images/freestyle/discus-women-medal.svg" style="float:center; width:600px" /></p>
+<p><img alt="discus-women-medal" src="../images/discus/discus-women-medal.svg" style="float:center; width:600px" /></p>
 
 ## Records
 The current records are
@@ -41,7 +41,7 @@ We can also look at the probability distributions of the time of the new record.
 | OR | 1.40% | 72.87 |
 | WR | 1.57e-5% | 77.21 |
 
-<p><img alt="discus-women-record" src="../images/freestyle/discus-women-records.svg" style="float:center; width:600px" /></p>
+<p><img alt="discus-women-record" src="../images/discus/discus-women-records.svg" style="float:center; width:600px" /></p>
 
 
 
