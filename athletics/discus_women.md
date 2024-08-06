@@ -12,10 +12,8 @@ We can also look at the cumulative distribution function of the data.
 <p><img alt="discus-women-cdf" src="../images/discus/discus-women-distributioncdf.svg" style="float:center; width:600px" /></p>
 This plot also shows some deviations from the fitted distribution but it doesn't look that bad especially for the low distances. We can perform the Anderson-Darling test to check if the data is explained by the fitted distribution. The p-value of an one-sample Anderson-Darlign test is given by 0.70. We must retain the null-hypothesis that the throwing distances are normal distributed with mean 62.33m and standard deviation 2.51m.
 
-There are 
-
 ## Medals
-Given the distribution of the throwing distances of the athletes we can determine the distribution of the first, second and third distance of a sample. The final consists of 12 athletes each with 3 throw and 8 of them may throw another 3 times. This gives us a sample size of 60 throws. The expected number of fouls is 20 and the expected value of the medal distances with 40 throws are
+Given the distribution of the throwing distances of the athletes we can determine the distribution of the first, second and third distance of a sample. The final consists of 12 athletes each with 3 throws and 8 of them may throw another 3 times. This gives us a sample size of 60 throws. The expected number of fouls is 20 and the expected value of the medal distances with 40 throws are
 
 | Place | Expected Distance (m) |
 | ----- | ------------- |
