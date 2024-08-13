@@ -6,7 +6,7 @@ In this article we will analyse the men's long jump event at the olympics. For t
 
 <p><img alt="long-jump-men-pdf" src="../images/long-jump/long-jump-men-distributionpdf.svg" style="float:center; width:600px" /></p>
 
-The distribution of the data looks like a normal distributions, when we only look at the jumps beyond 7m. We will assume that the data is normal distributed with the sample mean and sample standard deviation. There are 85 fouls registered of the total of 202 jumps. This results in a 29.62% $ \pm $ 6.30% probability of a foul.
+The distribution of the data looks like a normal distributions, when we only look at the jumps beyond 7m. We will assume that the data is normal distributed with the sample mean and sample standard deviation. There are 85 fouls registered of the total of 202 jumps. This results in a 29.62% $$ \pm $$ 6.30% probability of a foul.
 
 We can also look at the cumulative distribution function of the data, only considering jumps beyond 7m.
 <p><img alt="long-jump-men-cdf" src="../images/long-jump/long-jump-men-distributioncdf.svg" style="float:center; width:600px" /></p>
