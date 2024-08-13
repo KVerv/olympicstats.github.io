@@ -42,7 +42,7 @@ We can also look at the probability distributions of the time of the new record.
 <p><img alt="long-jump-men-record" src="../images/long-jump/long-jump-men-records.svg" style="float:center; width:600px" /></p>
 
 ## Paris 2024
-During the final at the Paris 2024 olympics there were 59 jumps registered. Of these jumps 15 of them were a foul or 25.42% $\pm$ 11.11%. This overlaps with the confidence interval of the predicted expected value based on previous olympics.
+During the final at the Paris 2024 olympics there were 59 jumps registered. Of these jumps 15 of them were a foul or $$25.42\% \pm 11.11\%$$. This overlaps with the confidence interval of the predicted expected value based on previous olympics.
 
 The greek Miltiadis Tentoglou won the gold medal with a distance of 8.48m. This falls well within the 95% confidence interval and deviates only 5cm of the predicted expected value.
 
