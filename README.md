@@ -4,6 +4,7 @@ This website contains a data analysis of some olympic events. The data is then u
 * Athletics
     - [Discus Throw Women](/athletics/discus_women.md)
     - [Long Jump Men](/athletics/long-jump_men.md)
+    - [Long Jump Men](/athletics/long-jump_women.md)
 * Swimming
     - [100m Freestyle Men](/swimming/100m_freestyle_men.md)
     - [100m Freestyle Women](/swimming/100m_freestyle_women.md)
