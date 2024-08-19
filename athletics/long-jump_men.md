@@ -10,10 +10,10 @@ The distribution of the data looks like a normal distributions, when we only loo
 
 We can also look at the cumulative distribution function of the data, only considering jumps beyond 7m.
 <p><img alt="long-jump-men-cdf" src="../images/long-jump/long-jump-men-distributioncdf.svg" style="float:center; width:600px" /></p>
-This plot also shows some deviations from the fitted distribution but it doesn't look that bad especially for the low distances. We can perform the Anderson-Darling test to check if the data is explained by the fitted distribution. The p-value of an one-sample Anderson-Darlign test is given by 0.63. We must retain the null-hypothesis that the throwing distances are normal distributed with mean 8.00m and standard deviation 0.20m.
+This plot also shows some deviations from the fitted distribution but it doesn't look that bad especially for the low distances. We can perform the Anderson-Darling test to check if the data is explained by the fitted distribution. The p-value of an one-sample Anderson-Darlign test is given by 0.63. We must retain the null-hypothesis that the jumping distances are normal distributed with mean $$ 8.00 m \pm 0.03 m $$ and standard deviation 0.20m.
 
 ## Medals
-Given the distribution of the throwing distances of the athletes we can determine the distribution of the first, second and third distance of a sample. The final consists of 12 athletes each with 3 jumps and 8 of them may jump another 3 times. This gives us a sample size of 60 jumps. The expected number of fouls is 18 and the expected value of the medal distances with 42 jumps are
+Given the distribution of the jumping distances of the athletes we can determine the distribution of the first, second and third distance of a sample. The final consists of 12 athletes each with 3 jumps and 8 of them may jump another 3 times. This gives us a sample size of 60 jumps. The expected number of fouls is 18 and the expected value of the medal distances with 42 jumps are
 
 | Place | Expected Distance (m) | 95% Confidence Interval (m) |
 | ----- | ------------- | --------- |
@@ -32,7 +32,7 @@ The current records are
 | OR | 8.90 |
 | WR | 8.95 |
 
-We can also look at the probability distributions of the time of the new record. This also allows for the calculation of the expected value of the new records and the probability that we'll see a new record.
+We can also look at the probability distributions of the distance of the new record. This also allows for the calculation of the expected value of the new records and the probability that we'll see a new record.
 
 | Record | Probability | Expected Value (m)|  95% Confidence Interval (m) |
 | -- | ------ | --- | ---- |
