@@ -32,7 +32,7 @@ The current records are
 | OR | 72.3|
 | WR | 76.8|
 
-We can also look at the probability distributions of the time of the new record. This also allows for the calculation of the expected value of the new records and the probability that we'll see a new record.
+We can also look at the probability distributions of the distance of the new record. This also allows for the calculation of the expected value of the new records and the probability that we'll see a new record.
 
 | Record | Probability | Expected Value (m)|  95% Confidence Interval (m) |
 | -- | ------ | --- | ---- |
@@ -42,12 +42,12 @@ We can also look at the probability distributions of the time of the new record.
 <p><img alt="discus-women-record" src="../images/discus/discus-women-records.svg" style="float:center; width:600px" /></p>
 
 ## Paris 2024
-During the final at the Paris 2024 olympics there were 60 jumps registered. Of these jumps 25 of them were a foul or $$ 41.67\% \pm 12.48\% $$. This overlaps with the confidence interval of the predicted expected value based on previous olympics, but it is just outside the confidence interval.
+During the final at the Paris 2024 olympics there were 60 throws registered. Of these throws 25 of them were a foul or $$ 41.67\% \pm 12.48\% $$. This overlaps with the confidence interval of the predicted expected value based on previous olympics, but it is just outside the confidence interval.
 
 Representing the United States, Valarie Allman won the gold medal with a distance of 69.50m. This falls well within the 95% confidence interval and deviates only 1.78m of the predicted expected value.
 
 Feng Bin managed to get Silver for China with a distance of 67.51m. This distance is 81cm removed from the expected value and falls again well within the confidence interval.
 
-The Croatia won the bronze medal with Sandra Elkasević, who also threw the discus 67.51m. Again this falls within the confidence interval and differs by 1.41m from the predicted expected value.
+Croatia won the bronze medal with Sandra Elkasević, who also threw the discus 67.51m. Again this falls within the confidence interval and differs by 1.41m from the predicted expected value.
 
 At the Paris 2024 olympics no records were broken in the women's discus throw. This was to be expected if one looks at the very small probabilities to break this records.
