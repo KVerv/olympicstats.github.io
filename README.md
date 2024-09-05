@@ -3,6 +3,7 @@
 This website contains a data analysis of some olympic events. The data is then used to make predictions and compare to the results of the Paris 2024 olympics. New events and results will be gradually added. The webiste is hosted at https://kverv.github.io/olympicstats.github.io/.
 * Athletics
     - [Javelin Throw Men](/athletics/javelin_men.md)
+    - [Javelin Throw Women](/athletics/javelin_women.md)
     - [Discus Throw Men](/athletics/discus_men.md)
     - [Discus Throw Women](/athletics/discus_women.md)
     - [Long Jump Men](/athletics/long-jump_men.md)
